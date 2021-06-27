@@ -1,1 +1,3 @@
 # Programming-Languages
+
+I Choose the Intergrating Langaues project form this course since it was the first time we learned how to intergrate Python and C++. This project was to combine both Python and C++ into one project file and to have them work with each other. An area I could enhance this code is to learn how to combine C++ and Python better so that the code works the way it should. The most challenging part of this project was to set up the python libaries as well as the code to pull from python through C++. The biggest skill from this project that translate to other projects is the combining of two different langauges into one project. This gives the end user the ability to create what ever they want within the project. 
